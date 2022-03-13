@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A brand platform to showcase the brand voice & assets, both for internal & external purposes. The website is accesible at this URL: https://unruffled-hoover-35ea83.netlify.app/
+A brand platform to showcase the brand voice & assets, both for internal & external purposes. The website is accesible at this URL: https://practical-noether-627bab.netlify.app/
 
 ## Improvements
 
