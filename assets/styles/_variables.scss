@@ -1,0 +1,20 @@
+@use "sass:math";
+
+@function px-to-rem($pxValue) {
+  @return math.div($pxValue, 16px) * 1rem;
+}
+
+$font-family-sans-serif: "Open Sans", Arial, Helvetica, sans-serif;
+
+:root {
+  --ac-white: #fff;
+  --ac-text-base: #101820;
+  --ac-text-secondary: #595952;
+  --ac-primary-dark: #019370;
+  --ac-primary-base: #00b388;
+  --ac-primary-light: #c9ede4;
+  --ac-primary-lighter: #f1fefb;
+  --ac-grey-base: #f1f3f8;
+  --ac-grey-light: #f7f8fc;
+  --ac-grey-lighter: #fcfcff;
+}
